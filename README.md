@@ -31,9 +31,8 @@ Required libraries: <br>
 
 BoostLR-Wind-Power-Forecasting/ <br>
 ├── Datasets/                   # Folder for datasets <br>
-├── Weather Calssification/     # Folder containing scripts for data preprocessing and clustering <br>
-├── Simulation for/             # Folder containing scripts for model training and evaluation <br>
-├── Graphicall illustration     # Folder containing scripts for result visualization <br>
+├── Models/                     # Folder containing scripts for model training and evaluation <br>
+├── Graphs                      # Folder containing scripts for result visualization <br>
 ├── README.md                   # Project README file <br>
 
 ## Reference
