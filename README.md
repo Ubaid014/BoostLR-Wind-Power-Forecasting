@@ -4,7 +4,37 @@ Rapidly increasing global energy demand and environmental concerns have shifted 
 ## Image
 
 ![Boost-LR](image.png)
+# Getting Started
+Follow the steps below to set up and run the code for short-term global horizontal irradiance forecasting.
 
+## Prerequisites
+Ensure you have the following software installed:<br>
+- Python 3.10.9 or above<br>
+
+Required libraries: <br>
+ -  NumPy<br>
+ -  Pandas<br>
+ -  Scikit-learn<br>
+ -  CatBoost<br>
+ -  XgBoost<br>
+ -  Matplotlib<br>
+ -  Seaborn<br>
+ -  TensorFlow<br>
+ -  Keras<br>
+ -  RandomForest<br>
+
+# Running the Code
+- Run the Boost-LR.ipynb script to simulate the proposed technique.<br>
+- Run LSTM.ipynb, GRU.ipynb, catoost.ipynb, xgboost.ipynb, rf.ipynb and informer.ipynb scripts comparative analysis.<br>
+- Run the bar_plot.ipynb, and graph.ipynb scripts to visualize the forecasting results and compare the model's performance.<br>
+
+
+BoostLR-Wind-Power-Forecasting/ <br>
+├── Datasets/                   # Folder for datasets <br>
+├── Weather Calssification/     # Folder containing scripts for data preprocessing and clustering <br>
+├── Simulation for/             # Folder containing scripts for model training and evaluation <br>
+├── Graphicall illustration     # Folder containing scripts for result visualization <br>
+├── README.md                   # Project README file <br>
 
 ## Reference
 Please cite this work as:
